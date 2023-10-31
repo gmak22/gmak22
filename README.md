@@ -6,7 +6,8 @@
 
   <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="100%" height="400px"/>
 
-  
+  # 💼 Portfolio
+  Check out my portfolio [here](https://gmak22.github.io).
 
   # 🌐 Socials:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makgijam/) 
