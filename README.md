@@ -92,5 +92,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gmak22&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gmak22&theme=gruvbox&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmak22&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><br/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=gmak22&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gmak22&theme=gruvbox" />
 </div>
